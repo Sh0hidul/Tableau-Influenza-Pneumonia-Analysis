@@ -12,5 +12,7 @@ This project visualizes the Pneumonia and Influenza deaths by state using Tablea
 - The analysis also highlights trends over the years and predictive studies for pneumonia and influenza outcomes.
 
 ## Visualization:
-![Map of Total Pneumonia and Influenza Deaths by State](./tableau_application_2.pdf)
+- [Tableau Application 2 (Graphs)](https://github.com/Sh0hidul/Tableau-Influenza-Pneumonia-Analysis/blob/main/tableau%20application%202.pdf)
+- [Tableau Application 2_PartII (Analysis)](https://github.com/Sh0hidul/Tableau-Influenza-Pneumonia-Analysis/blob/main/Tableau%20Application%202_PartII.pdf)
+
 
